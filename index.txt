@@ -1,3 +1,6 @@
 hi this is a sample file to add collaboraters and giving branch permissons to employee
 
-no acces for main branch to merge their source code into direct project main branch check
+no acces for main branch to merge their source code into direct project main branch chec
+
+
+3rd attempt to merge code in main branch
